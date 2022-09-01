@@ -4,4 +4,4 @@ NPM     : 2106639913
 
 Kelas   : F
 
-Hobi    : Berbahagia
+Hobi    : Gatau
